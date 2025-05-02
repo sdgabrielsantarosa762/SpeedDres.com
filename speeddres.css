@@ -1,0 +1,12 @@
+
+#fundo {
+    
+       background-image: url("speedDRES.jpeg.jpeg");
+       background-repeat: no-repeat;
+       background-position: center top ;
+       
+
+}
+body{
+    height: 200vh;
+}
